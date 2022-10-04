@@ -1,5 +1,5 @@
 ## Booking.com 
--  Basically, hellobonsai.com is a Freelance website, Where you can add your client and their projects.
+-  HelloBonsai.com is a Freelance website, Where you can add your client and their projects.
 -  This website was cloned as part of project work of Unit 6 and we are the team of 5 members who have contibuted in this project.
 
 ## Snap shot
