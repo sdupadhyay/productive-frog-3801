@@ -1,0 +1,129 @@
+#sidebar {
+  width: 15%;
+  height: 1000px;
+  border: 1px solid rgb(216, 214, 214);
+  position: fixed;
+  background-color: #fbfcfc;
+}
+#s1 {
+  padding-top: 20px;
+  padding-left: 1px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+#s2 {
+  padding-left: 20px;
+  padding-top: 25px;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+#s2:hover {
+  cursor: pointer;
+}
+#s2 > p {
+  margin-top: -5px;
+  color: gray;
+}
+#s2 > p:hover {
+  color: rgb(49, 48, 48);
+}
+#s3 {
+  padding-left: 20px;
+  padding-top: 14px;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+#s3:hover {
+  cursor: pointer;
+}
+#s3 > p {
+  margin-top: -5px;
+  color: gray;
+}
+#s3 > p:hover {
+  color: rgb(49, 48, 48);
+}
+#s4 {
+  padding-left: 20px;
+  padding-top: 14px;
+  display: flex;
+  gap: 10px;
+  width: 100%;
+}
+#s4:hover {
+  cursor: pointer;
+}
+#s4 > p {
+  margin-top: -5px;
+  color: gray;
+}
+#s4 > p:hover {
+  color: rgb(49, 48, 48);
+}
+#getonemonth {
+  border: 1px solid grey;
+  height: 80px;
+  margin-top: 30px;
+  width: 80%;
+  margin-left: 15px;
+  border-radius: 5px;
+  background-color: #f2fbf9;
+  border-color: lightgray;
+}
+
+#inner {
+  border: 1px solid #00b289;
+  height: 35px;
+  /* padding: 10px 10px 10px 10px; */
+  width: 80%;
+  margin-top: 21px;
+  margin-left: 15px;
+  border-radius: 5px;
+  display: flex;
+}
+#inner:hover {
+  cursor: pointer;
+}
+#inner > p {
+  font-size: xx-small;
+  margin-top: 10px;
+  margin-left: 5px;
+  color: #00b289;
+}
+.free {
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 15px;
+}
+#dashboardNavbar {
+  border: 1px solid rgb(216, 214, 214);
+  height: 70px;
+  width: 90%;
+  margin-left: 137px;
+  background-color: #fbfcfc;
+  display: flex;
+}
+#searchbar {
+  /* border: 1px solid blue; */
+  width: 40%;
+  padding-top: 20px;
+}
+.se {
+  background-color: #fbfcfc;
+  border-color: aliceblue;
+  margin-left: 5px;
+  height: max-content;
+  width: 60%;
+}
+.se:focus {
+  outline-color: #00b289;
+}
+#otherPart {
+  /* border: 1px solid red; */
+  width: 60%;
+  height: 100%;
+  display: flex;
+}
